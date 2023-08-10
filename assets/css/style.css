@@ -650,6 +650,7 @@ section {
 
 .portfolio-details .portfolio-details-slider img {
   width: 100%;
+ 
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination {
@@ -1116,4 +1117,9 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
+}
+
+.projectDesc {
+    width: 20vw;
+    height: 40vh
 }
